@@ -28,11 +28,11 @@
 	</build>
 
 	<dependencies>
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.9.9</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>org.openqa.selenium.server</groupId>
