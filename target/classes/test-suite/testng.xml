@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Test" verbose="1" junit="false" annotations="JDK" >
+  <test name="Login" >
+   <!--  <packages>
+      <package name="browser" />
+   </packages> -->
+   <classes>
+      	<class name="browser.AppDemo">      	
+      	</class>
+    </classes>
+  </test>
+</suite>
